@@ -5,3 +5,9 @@
   + Simple example to understand data switching between WPF and CPP/CLI
   * **note** OpenCV library is not included
   - <u> must link OpenCV library manually </u>
+
+# 2. Version
+  - React ver. 18  
+  - mui ver. 5
+  - refer package.json in clientapp folder
+ 
